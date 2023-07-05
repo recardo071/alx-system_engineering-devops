@@ -1,4 +1,2 @@
 #!/bin/bash
-previous_dir=$(pwd)
 cd -
-echo "$previous_dir"
